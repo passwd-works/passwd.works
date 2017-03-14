@@ -1,0 +1,29 @@
+{
+  "name": "passwd.works",
+  "version": "0.1.0",
+  "description": "A password manager that works",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.18.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": null
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/passwd-works/passwd.works.git"
+  },
+  "keywords": [
+    "password",
+    "pass",
+    "password",
+    "manager"
+  ],
+  "author": "Antonis Kalipetis <akalipetis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/passwd-works/passwd.works/issues"
+  },
+  "homepage": "https://github.com/passwd-works/passwd.works#readme"
+}
